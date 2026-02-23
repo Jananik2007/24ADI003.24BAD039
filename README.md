@@ -10,6 +10,7 @@ Both projects demonstrate preprocessing, model training, evaluation, visualizati
 
 **Scenario 1 – Multinomial Naïve Bayes**
 SMS Spam Classification
+
 **Problem Statement**
 
 Classify SMS messages as Spam or Ham (Not Spam) using text classification techniques.
@@ -25,6 +26,7 @@ Target Variable: Message Label (Spam / Ham)
 Input Feature: SMS Text Messages
 
 **Project Workflow**
+
 1️.Data Preprocessing
 
 Converted text to lowercase
@@ -89,6 +91,7 @@ TF-IDF Feature Importance
 
 **Scenario 2 – Gaussian Naïve Bayes**
 Iris Flower Classification
+
 **Problem Statement**
 
 Classify flower species based on physical measurements.
@@ -112,6 +115,7 @@ Petal Length
 Petal Width
 
 **Project Workflow**
+
 1️.Data Inspection & Preprocessing
 
 Checked for missing values
